@@ -1,4 +1,4 @@
-To run the data prep notebook, the package nba_stats is required. This is a custom package which connect to a database of nba stats. This can be done easily using the below line but access to the database itself will need to be arranged for any of the connections to work. This is easy enough and happy to give access, just let me know.
+To run the data prep notebook, the package nba_stats is required. This is a custom package which connects to a database of nba stats. This can be done easily using the below line but access to the database itself will need to be arranged for any of the connections to work. This is easy enough and happy to give access, just let me know.
 
 pip install git+https://github.com/Chrisebeling/nba_stats.git
 
